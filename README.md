@@ -79,16 +79,6 @@ Voici une liste de feedbacks des étudiants sur différents cours :
 
 Le système recommande des matériaux de cours spécifiques à chaque étudiant en fonction de ses performances passées et de ses interactions avec la plateforme d'apprentissage.
 
-## Installation et Utilisation
-
-Pour installer les dépendances nécessaires, exécutez les commandes suivantes :
-
-```bash
-pip install tensorflow scikit-learn scipy pandas
-```
-
-Ensuite, exécutez le script principal pour voir le système en action. Le script inclut des exemples d'utilisation pour le clustering des étudiants, l'ajustement de la difficulté des cours, et la recommandation de matériaux de cours individualisés.
-
 ## Conclusion
 
 Le Personalized Learning System est une solution avancée pour adapter les parcours d'apprentissage des étudiants en fonction de leurs besoins individuels. En utilisant des techniques de machine learning et d'apprentissage profond, le système offre une personnalisation précise et efficace, contribuant ainsi à améliorer l'engagement et les performances des étudiants.
