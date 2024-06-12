@@ -86,6 +86,21 @@ Le Personalized Learning System est une solution avancée pour adapter les parco
 Pour toute question ou suggestion, n'hésitez pas à ouvrir une issue ou à nous contacter directement.
 
 ---
+```plaintext
+Élève 1 :
+
+Appartient au groupe : 2
+Matériels non attribués : Advanced Algebra, Shakespeare
+Précision avec les matériaux complétés : 0.33
+Recommandations pour l'élève 1 :
+Basic Physics (Science, 62.5)
+Geometry (Math, 62.5)
+Chemistry (Science, 72.5)
+World History (History, 60.0)
+Modern Literature (English, 70.0)
+Biology (Science, 70.0)
+American History (History, 65.0)
+```
 
 **Remarque** : Le script inclut des exemples d'utilisation pour le clustering des étudiants, l'ajustement de la difficulté des cours, et la recommandation de matériaux de cours individualisés.
 
