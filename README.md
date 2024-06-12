@@ -96,3 +96,6 @@ Le Personalized Learning System est une solution avancée pour adapter les parco
 Pour toute question ou suggestion, n'hésitez pas à ouvrir une issue ou à nous contacter directement.
 
 ---
+
+**Remarque** : Le script inclut des exemples d'utilisation pour le clustering des étudiants, l'ajustement de la difficulté des cours, et la recommandation de matériaux de cours individualisés.
+
