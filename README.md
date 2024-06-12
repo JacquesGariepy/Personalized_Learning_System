@@ -18,7 +18,7 @@ La personnalisation de l'apprentissage est essentielle pour maximiser l'engageme
 Pour installer les dépendances nécessaires, exécutez les commandes suivantes :
 
 ```bash
-pip install tensorflow scikit-learn scipy
+pip install tensorflow scikit-learn scipy pandas
 ```
 
 ## Exemples d'Utilisation
@@ -84,7 +84,7 @@ Le système recommande des matériaux de cours spécifiques à chaque étudiant 
 Pour installer les dépendances nécessaires, exécutez les commandes suivantes :
 
 ```bash
-pip install tensorflow scikit-learn scipy
+pip install tensorflow scikit-learn scipy pandas
 ```
 
 Ensuite, exécutez le script principal pour voir le système en action. Le script inclut des exemples d'utilisation pour le clustering des étudiants, l'ajustement de la difficulté des cours, et la recommandation de matériaux de cours individualisés.
