@@ -96,5 +96,3 @@ Le Personalized Learning System est une solution avancée pour adapter les parco
 Pour toute question ou suggestion, n'hésitez pas à ouvrir une issue ou à nous contacter directement.
 
 ---
-
-**Remarque** : Ce fichier `README.md` ne contient pas le code source complet pour éviter la duplication. Veuillez consulter le fichier `script.py` pour le code complet et les détails d'implémentation.
